@@ -109,11 +109,11 @@ The system displays a table containing:
 
 ---
 
-** Authors **
-HIMESH MEHTA ,
-RIYA MEHTA ,
-OM GHAG ,
-POOJAN MODI ,
-AYAZ MEMOM.
+## Authors
+-RIYA MEHTA 
+-HIMESH MEHTA 
+-OM GHAG 
+-POOJAN MODI
+-AYAZ MEMOM
 
 
